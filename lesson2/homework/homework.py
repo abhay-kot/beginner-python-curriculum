@@ -16,9 +16,8 @@ print(user + us)
 # Homework Problem 3
 # Use a for loop to print all the even numbers from 0 to 10 (including 10).
 i =0
-for  (i < 11,i++
-print(i)
-)
+for i in range(2, 11, 2):
+    print(i)
 
 # Homework Problem 4
 # Ask the user how many push-ups they can do.
